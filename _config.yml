@@ -183,14 +183,15 @@ site_state: true
 # Key is the link label showing to end users.
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
-  youtube: https://www.youtube.com/channel/UC0zBSJGR_19KBWVCKylzYbQ || youtube
-  bilibili: https://space.bilibili.com/333838435 || play
+  Youtube: https://www.youtube.com/channel/UC0zBSJGR_19KBWVCKylzYbQ || youtube
+  Bilibili: https://space.bilibili.com/333838435 || play
+  GitHub: https://github.com/OomelodyoO || github
+  Google: mailto:2hang2hi8ing@gmail.com || envelope
+#  sina: mailto:2hang2hi8ing@gmail.com || envelope
   简书: https://www.jianshu.com/u/fd71482a4274 || vcard
   知乎: https://www.zhihu.com/people/zhang-zhi-xing-59/posts || vcard-o
-  GitHub: https://github.com/OomelodyoO || github
+  数据: http://firm.zhangzhixing.win || database
   工具: http://zhangzhixing.win/tools/ || calculator
-  google: mailto:2hang2hi8ing@gmail.com || envelope
-  sina: mailto:2hang2hi8ing@gmail.com || envelope
   #E-Mail: mailto:yourname@gmail.com || envelope
   #Weibo: https://weibo.com/yourname || weibo
   #Google: https://plus.google.com/yourname || google
