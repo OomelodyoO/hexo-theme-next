@@ -190,7 +190,7 @@ social:
 #  sina: mailto:2hang2hi8ing@gmail.com || envelope
   简书: https://www.jianshu.com/u/fd71482a4274 || vcard
   知乎: https://www.zhihu.com/people/zhang-zhi-xing-59/posts || vcard-o
-  数据: http://firm.zhangzhixing.win || database
+  数据: http://firm.zhangzhixing.win:8080 || database
   工具: http://zhangzhixing.win/tools/ || calculator
   #E-Mail: mailto:yourname@gmail.com || envelope
   #Weibo: https://weibo.com/yourname || weibo
